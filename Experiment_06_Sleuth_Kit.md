@@ -12,6 +12,8 @@ The **Sleuth Kit (TSK)** is a suite of command-line tools for analyzing disk ima
 2.  **Install Sleuth Kit:**
     * Run the installer and follow the instructions to install Sleuth Kit on your Windows machine.
 
+![6 1](https://github.com/user-attachments/assets/92cf797f-02dc-46f0-b504-45d61fecaa54)
+
 ---
 
 ### 2. Acquire the Disk Image
@@ -25,6 +27,8 @@ Before analysis, a **bit-by-bit copy** (disk image) of the storage device eviden
     * Download the following files from the Google Drive:
         * `4Dell Latitude CPi.E01`
         * `4Dell Latitude CPi.E02`
+
+![6 3](https://github.com/user-attachments/assets/0e35672f-fcf4-4e3b-96ac-91a18c013764)
 
 ---
 
@@ -50,6 +54,9 @@ Use the Sleuth Kit command-line tools to examine the file system structure and l
         ```arduino
         fsstat [image file] > filesystem_info.txt
         ```
+![6 4](https://github.com/user-attachments/assets/99742d97-c7c6-408d-804c-9f774d594f1d)
+
+        
     * **Purpose:** This command outputs detailed information about the file system, which is crucial for structural understanding.
 
 3.  **List Partitions with `mmls`:**
@@ -71,6 +78,8 @@ Use the Sleuth Kit command-line tools to examine the file system structure and l
         ```css
         icat [image file] [inode number] > [output file]
         ```
+        ![6 5](https://github.com/user-attachments/assets/25db4892-31dc-497e-8895-bc1f0cc1d537)
+
     * **Purpose:** To extract a specific file, replace `[inode number]` with the inode found from the `fls` output.
 
 ---
@@ -85,6 +94,8 @@ Extract file metadata to gain insight into a file's history, creation, and usage
         istat [image file] [inode number] > metadata_info.txt
         ```
     * **Purpose:** Provides detailed information about a file, including **timestamps (MAC times)**, size, and allocation status.
+    * 
+![6 2](https://github.com/user-attachments/assets/92e522c5-4d0c-4f2b-84b4-f3782d818a6a)
 
 ---
 
@@ -105,6 +116,9 @@ Creating a timeline of file activity is vital for reconstructing events.
         mactime -b body.txt > timeline.txt
         ```
     * **Purpose:** Processes the body file to create a **timeline** (`timeline.txt`) sorted by the Modified, Accessed, and Changed (MAC) times of the files.
+    * 
+
+![6 7](https://github.com/user-attachments/assets/ef6ba358-e7c0-4e71-8ee4-fb3669350518)
 
 ---
 
