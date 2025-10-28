@@ -21,6 +21,9 @@
     * Go to **Settings > About Phone** and tap **Build Number seven times** to enable Developer Options.
     * Go to **Settings > Developer Options** and enable **USB Debugging**.
 
+<img width="1910" height="1077" alt="7 1" src="https://github.com/user-attachments/assets/6d14d4a4-7a11-4cf7-b2fb-879b25e9bfee" />
+<img width="1916" height="997" alt="7 3" src="https://github.com/user-attachments/assets/f5eaf6a9-b1ce-4371-aea1-0ad10ca9bf21" />
+
 ---
 
 ### 2. Connect the Android Device to Your Computer
@@ -34,6 +37,8 @@
         ```
     * **Verification:** The device should be listed, confirming that the ADB connection is ready.
 
+<img width="1378" height="320" alt="7 5" src="https://github.com/user-attachments/assets/f56a28b3-cea9-4fdf-a38b-6875bef29128" />
+
 ---
 
 ### 3. Extract Data Using AFLogical OSE
@@ -44,11 +49,15 @@
         ```bash
         adb install aflogical.apk
         ```
+<img width="1916" height="367" alt="7 7" src="https://github.com/user-attachments/assets/831f5df2-7df4-4450-9553-a6934b02f355" />
+
 2.  **Launch the AFLogical OSE App on the Device:**
     * On the Android device, open the newly installed AFLogical app.
 3.  **Select and Start Data Extraction:**
     * Select the desired data types (e.g., contacts, SMS, MMS, call logs) from the app's options.
     * The app will start the extraction process, storing the data in **.csv files** on the device’s storage, typically in a directory named `aflogical`.
+
+![7 12](https://github.com/user-attachments/assets/e5efca77-5a97-4b4e-b4f7-b2e9f46f608c)
 
 ---
 
@@ -59,6 +68,9 @@
         ```bash
         adb pull /sdcard/aflogical /path/to/destination
         ```
+<img width="1704" height="238" alt="7 8" src="https://github.com/user-attachments/assets/639e5418-451b-46c4-8e66-15a6a3898019" />
+
+        
     * *Note: Replace `/path/to/destination` with the desired save location on your computer.*
 2.  **Verify the Data:**
     * Navigate to the destination directory and check the `.csv` files to ensure all required data has been successfully transferred.
@@ -72,6 +84,8 @@
 2.  **Review and Document:**
     * Carefully review the data for any relevant evidence or information.
     * Document all findings and prepare a comprehensive report.
+
+<img width="1918" height="1078" alt="7 9" src="https://github.com/user-attachments/assets/16849718-017c-4838-9e72-17d8c307f9e0" />
 
 ---
 
