@@ -120,3 +120,22 @@ Process Explorer is an essential forensic tool that provides in-depth visibility
 It enables forensic investigators and system administrators to **detect, analyze, and remove suspicious or malicious programs** efficiently.
 
 ---
+
+## Rubrics
+
+| **Criteria & Marks Assigned**                                | **Mark Allotted** | **Mark Awarded** |
+|--------------------------------------------------------------|-------------------|------------------|
+|                                                              |                   |                  |
+| 1. GitHub Activity & Submission Regularity                   |         3         |                  |
+|                                                              |                   |                  |
+| 2. Application of Forensic Tools & Practical Execution       |         3         |                  |
+|                                                              |                   |                  |
+| 3. Documentation & Reporting                                 |         2         |                  |
+|                                                              |                   |                  |
+| 4. Engagement, Problem-Solving & Team Collaboration          |         2         |                  |
+|                                                              |                   |                  |
+|                  **Total**                                   |       **10**      |                  |
+|                                                              |                   |                  |
+
+## Result : 
+- Thus this experiment is successfully completed using Process Explorer.
