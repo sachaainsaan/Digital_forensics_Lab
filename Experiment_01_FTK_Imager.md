@@ -204,3 +204,5 @@ A window will appear asking you to choose the source type:
 
 - [FTK Imager Official Website](https://accessdata.com/product-download/ftk-imager-version-4-5)  
 - FTK Imager Documentation
+  
+<img width="1018" height="648" alt="Screenshot 2025-10-30 214048" src="https://github.com/user-attachments/assets/f80d64fa-ef09-4229-95b6-7398b0738e26" />
