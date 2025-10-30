@@ -106,3 +106,22 @@
 ### 8. Review the Results
 
 * Review the scores generated for each image and use the threshold values to determine which images require further forensic investigation to extract the suspected hidden data.
+
+## Rubrics
+
+| **Criteria & Marks Assigned**                                | **Mark Allotted** | **Mark Awarded** |
+|--------------------------------------------------------------|-------------------|------------------|
+|                                                              |                   |                  |
+| 1. GitHub Activity & Submission Regularity                   |         3         |                  |
+|                                                              |                   |                  |
+| 2. Application of Forensic Tools & Practical Execution       |         3         |                  |
+|                                                              |                   |                  |
+| 3. Documentation & Reporting                                 |         2         |                  |
+|                                                              |                   |                  |
+| 4. Engagement, Problem-Solving & Team Collaboration          |         2         |                  |
+|                                                              |                   |                  |
+|                  **Total**                                   |       **10**      |                  |
+|                                                              |                   |                  |
+
+## Result : 
+- Thus this experiment is successfully completed using Steg-Expose.
