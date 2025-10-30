@@ -103,7 +103,8 @@ This experiment demonstrates how to create a case, import evidence, analyze data
 - Reports generated in the chosen format (HTML, CSV, Excel).  
 - Investigation closed with properly archived case files.  
 ---
-<div style="page-break-before: always;"></div>
+<div style="page-break-inside: avoid;"></div>
+
 
 ## Rubrics
 
