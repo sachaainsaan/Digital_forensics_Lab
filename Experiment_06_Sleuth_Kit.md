@@ -141,3 +141,22 @@ Ensure all evidence and reports are securely managed to maintain integrity and f
     * Use a secure, verifiable method to **archive** the original disk image and the analysis results.
 2.  **Store Securely:**
     * Store the archived data in a secure location, strictly adhering to the **chain of custody** procedures.
+
+## Rubrics
+
+| **Criteria & Marks Assigned**                                | **Mark Allotted** | **Mark Awarded** |
+|--------------------------------------------------------------|-------------------|------------------|
+|                                                              |                   |                  |
+| 1. GitHub Activity & Submission Regularity                   |         3         |                  |
+|                                                              |                   |                  |
+| 2. Application of Forensic Tools & Practical Execution       |         3         |                  |
+|                                                              |                   |                  |
+| 3. Documentation & Reporting                                 |         2         |                  |
+|                                                              |                   |                  |
+| 4. Engagement, Problem-Solving & Team Collaboration          |         2         |                  |
+|                                                              |                   |                  |
+|                  **Total**                                   |       **10**      |                  |
+|                                                              |                   |                  |
+
+## Result : 
+- Thus this experiment is successfully completed using Sleuth Kit.
