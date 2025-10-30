@@ -94,11 +94,6 @@ HTML Form URL Encoded
 
 ---
 
-## Result
-The experiment successfully intercepts the login credentials in a human-readable format. The analysis of the captured POST packet reveals the plaintext data that was transmitted over the network:
-
-This result confirms the inherent security flaw of the HTTP protocol. Any sensitive data sent over HTTP is transmitted openly, making it trivial to intercept.
-
 ## Rubrics
 
 | **Criteria & Marks Assigned**                                | **Mark Allotted** | **Mark Awarded** |
@@ -115,5 +110,7 @@ This result confirms the inherent security flaw of the HTTP protocol. Any sensit
 |                  **Total**                                   |       **10**      |                  |
 |                                                                                                     |
 
-## Result : 
-- Thus this experiment is successfully completed using Wireshark.
+## Result
+The experiment successfully intercepts the login credentials in a human-readable format. The analysis of the captured POST packet reveals the plaintext data that was transmitted over the network:
+
+This result confirms the inherent security flaw of the HTTP protocol. Any sensitive data sent over HTTP is transmitted openly, making it trivial to intercept.
