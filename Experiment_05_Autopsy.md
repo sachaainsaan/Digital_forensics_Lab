@@ -27,12 +27,10 @@ This experiment demonstrates how to create a case, import evidence, analyze data
 - Download and install Autopsy from the official website.  
 - Follow installation instructions based on your operating system (Windows, Linux, or macOS).  
 
-
 ### 2. Starting a New Case  
 - Create a new case by clicking on **New Case**.  
 - Enter the case name and location where case data will be stored.  
 - Fill in details such as case number, examiner’s name, etc., and click **Next**.
-
 
 ![WhatsApp Image 2025-09-01 at 12 29 59](https://github.com/user-attachments/assets/7b86bc1a-8dac-4e75-a377-3ab4022baec0))
 
@@ -41,7 +39,6 @@ This experiment demonstrates how to create a case, import evidence, analyze data
 
 ![WhatsApp Image 2025-09-01 at 12 30 16](https://github.com/user-attachments/assets/e634f51d-f727-4086-899b-f106efb9fc66)
 
-
 ### 4. Adding a Data Source
 - Choose the type of data source.  
 - Select the data source (e.g., disk image, local drive, logical files).  
@@ -49,7 +46,6 @@ This experiment demonstrates how to create a case, import evidence, analyze data
 - Start the analysis.
 
 ![WhatsApp Image 2025-09-01 at 12 31 16](https://github.com/user-attachments/assets/d009cafa-e26c-49cd-8b1d-080165f6caad)
-
 
 ### 5. Initial Analysis and Overview  
 - Monitor **Ingest Progress**.  
@@ -72,7 +68,6 @@ This experiment demonstrates how to create a case, import evidence, analyze data
   - Compare file hashes against known databases to identify known good/bad files.
 
 ![WhatsApp Image 2025-09-01 at 12 31 37](https://github.com/user-attachments/assets/5cf5602f-8bd5-4e12-b7f2-1aab9d078f7a)
-
 
 ### 7. Reporting  
 - Generate a report by selecting **Generate Report** from the toolbar.  
@@ -98,7 +93,6 @@ This experiment demonstrates how to create a case, import evidence, analyze data
 
 ![WhatsApp Image 2025-09-01 at 12 32 38](https://github.com/user-attachments/assets/b055269f-3ca8-47a7-bc77-0228b05a2235)
 
-
 ### Step-8: Case Closure  
 - Close the case once the investigation is complete.  
 - Archive all data and reports according to organizational policies.  
@@ -110,24 +104,16 @@ This experiment demonstrates how to create a case, import evidence, analyze data
 - Artifacts extracted and analyzed (files, metadata, timeline, keywords, hashes).  
 - Reports generated in the chosen format (HTML, CSV, Excel).  
 - Investigation closed with properly archived case files.  
-
 ---
-
 ## Rubrics
 
 | **Criteria & Marks Assigned**                                | **Mark Allotted** | **Mark Awarded** |
 |--------------------------------------------------------------|-------------------|------------------|
-|                                                              |                   |                  |
 | 1. GitHub Activity & Submission Regularity                   |         3         |                  |
-|                                                              |                   |                  |
 | 2. Application of Forensic Tools & Practical Execution       |         3         |                  |
-|                                                              |                   |                  |
 | 3. Documentation & Reporting                                 |         2         |                  |
-|                                                              |                   |                  |
 | 4. Engagement, Problem-Solving & Team Collaboration          |         2         |                  |
-|                                                              |                   |                  |
 |                  **Total**                                   |       **10**      |                  |
-|                                                              |                   |                  |
 
 ## Result : 
 - Thus this experiment is successfully completed using Autopsy.
