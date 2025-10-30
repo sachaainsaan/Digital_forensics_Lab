@@ -205,4 +205,23 @@ A window will appear asking you to choose the source type:
 - [FTK Imager Official Website](https://accessdata.com/product-download/ftk-imager-version-4-5)  
 - FTK Imager Documentation
   
-<img width="1018" height="648" alt="Screenshot 2025-10-30 214048" src="https://github.com/user-attachments/assets/f80d64fa-ef09-4229-95b6-7398b0738e26" />
+## Rubrics
+
+| **Criteria & Marks Assigned**                                | **Mark Allotted** | **Mark Awarded** |
+|--------------------------------------------------------------|-------------------|------------------|
+|                                                                                                     |
+| 1. GitHub Activity & Submission Regularity                   |         3         |                  |
+|                                                                                                     |
+| 2. Application of Forensic Tools & Practical Execution       |         3         |                  |
+|                                                                                                     |
+| 3. Documentation & Reporting                                 |         2         |                  |
+|                                                                                                     |
+| 4. Engagement, Problem-Solving & Team Collaboration          |         2         |                  |
+|                                                                                                     |
+|                  **Total**                                   |       **10**      |                  |
+|                                                                                                     |
+
+## Result: 
+   Thus this experiment is successfully completed using FTK Imager.
+
+
