@@ -83,3 +83,22 @@ Click the "Analyze" button to get a parsed, easy-to-read report.
 
 <br>
 <img width="1780" height="680" alt="Screenshot 2025-09-02 164206" src="https://github.com/user-attachments/assets/9948ad9b-23ba-4c36-9daa-cf9b79b03a31" />
+
+## Rubrics
+
+| **Criteria & Marks Assigned**                                | **Mark Allotted** | **Mark Awarded** |
+|--------------------------------------------------------------|-------------------|------------------|
+|                                                              |                   |                  |
+| 1. GitHub Activity & Submission Regularity                   |         3         |                  |
+|                                                              |                   |                  |
+| 2. Application of Forensic Tools & Practical Execution       |         3         |                  |
+|                                                              |                   |                  |
+| 3. Documentation & Reporting                                 |         2         |                  |
+|                                                              |                   |                  |
+| 4. Engagement, Problem-Solving & Team Collaboration          |         2         |                  |
+|                                                              |                   |                  |
+|                  **Total**                                   |       **10**      |                  |
+|                                                              |                   |                  |
+
+## Result : 
+- Thus this experiment is successfully completed using Mail Header Analysis.
