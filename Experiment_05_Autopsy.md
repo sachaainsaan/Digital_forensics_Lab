@@ -1,6 +1,4 @@
 # Ex.No.5: Use Autopsy to Create a Case and Import Evidence
-
-
 ---
 
 ## Aim :
@@ -105,6 +103,8 @@ This experiment demonstrates how to create a case, import evidence, analyze data
 - Reports generated in the chosen format (HTML, CSV, Excel).  
 - Investigation closed with properly archived case files.  
 ---
+<div style="page-break-before: always;"></div>
+
 ## Rubrics
 
 | **Criteria & Marks Assigned**                                | **Mark Allotted** | **Mark Awarded** |
