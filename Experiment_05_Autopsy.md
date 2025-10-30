@@ -40,8 +40,7 @@ This experiment demonstrates how to create a case, import evidence, analyze data
 ### 4. Adding a Data Source
 - Choose the type of data source.  
 - Select the data source (e.g., disk image, local drive, logical files).  
-- Configure **Ingest Modules** (to analyze files, search keywords, extract metadata, etc.).  
-- Start the analysis.
+- Configure **Ingest Modules** & start analysis  
 
 ![WhatsApp Image 2025-09-01 at 12 31 16](https://github.com/user-attachments/assets/d009cafa-e26c-49cd-8b1d-080165f6caad)
 
@@ -61,7 +60,6 @@ This experiment demonstrates how to create a case, import evidence, analyze data
   - Open, view, or export files for further examination.  
 - **Timeline Analysis:**  
   - Use the Timeline module to visualize events by timestamps.  
-  - Helps track user activity over time.  
 - **Hash Analysis:**  
   - Compare file hashes against known databases to identify known good/bad files.
 
@@ -103,8 +101,6 @@ This experiment demonstrates how to create a case, import evidence, analyze data
 - Reports generated in the chosen format (HTML, CSV, Excel).  
 - Investigation closed with properly archived case files.  
 ---
-<div style="page-break-before: always;"></div>
-
 
 ## Rubrics
 
