@@ -40,7 +40,7 @@ It helps investigators and administrators analyze active processes, detect suspi
    - 🟥 **Red** — Terminated processes  
    - 🟦 **Light Blue** — Processes running under the current user  
    - 🟪 **Pink** — Suspended processes
-![9 1](https://github.com/user-attachments/assets/909f3351-0a9c-40e5-ae64-03f39fd6ffa2)
+<img width="980" height="733" alt="9 1" src="https://github.com/user-attachments/assets/ca912dd2-ced8-40a8-a1ab-75581e7cc2b5" />
 
 ---
 
@@ -55,7 +55,8 @@ It helps investigators and administrators analyze active processes, detect suspi
 5. Check for **Digital Signature**:
    - Valid signature = trusted developer  
    - No signature or invalid = possibly malicious
-![9 1](https://github.com/user-attachments/assets/909f3351-0a9c-40e5-ae64-03f39fd6ffa2)
+<img width="985" height="736" alt="9 2" src="https://github.com/user-attachments/assets/2f1f813d-6da7-4087-ba04-9788d2c7456a" />
+
 ---
 
 ### 4. Analyze Process Behavior
@@ -65,7 +66,8 @@ It helps investigators and administrators analyze active processes, detect suspi
    - Check if it communicates with **unknown external IP addresses**.
 4. Examine **Handles** and **DLLs** tabs for suspicious loaded files or libraries.
 
-![9 2](https://github.com/user-attachments/assets/f2865444-4e65-44c7-bcf7-415ee93766e9)
+<img width="987" height="749" alt="9 3" src="https://github.com/user-attachments/assets/a6fa5e7d-39d4-4e97-962b-07786f0f6ec8" />
+
 ---
 
 ### 5. Verify Process Legitimacy
@@ -74,8 +76,8 @@ It helps investigators and administrators analyze active processes, detect suspi
 2. Visit 🔗 [https://www.virustotal.com](https://www.virustotal.com)
    - Upload the process file or search its name to verify if it’s reported as malware.
 3. Cross-check with **ProcessLibrary.com** or official vendor websites for authenticity.
- 
-![9 6](https://github.com/user-attachments/assets/249ed413-06df-4575-8304-3df8c0f86dbc)
+
+<img width="1788" height="972" alt="9 4" src="https://github.com/user-attachments/assets/59462abf-2a92-42a8-bfbd-44627ed033f5" />
 
 
 ---
@@ -89,7 +91,8 @@ It helps investigators and administrators analyze active processes, detect suspi
 3. **After removal:**
    - Run a **Full System Scan** using Windows Defender or Malwarebytes to ensure no remnants remain.
 
-![9 8](https://github.com/user-attachments/assets/53bec5fa-049e-4b72-ad66-df47b9e57aa2)
+<img width="635" height="198" alt="9 5" src="https://github.com/user-attachments/assets/a0a9d3ce-9c49-495d-9240-fe7f4eaa1489" />
+
 
 
 ---
@@ -103,8 +106,9 @@ You find `faangpath_simple_template.pdf` consuming 70% CPU.
 - **Online Check:** VirusTotal confirms it as a **known trojan**  
 - **Action Taken:** Suspended → Killed → Deleted file → Performed full antivirus scan  
 
-![9 9](https://github.com/user-attachments/assets/7e5ab261-13df-4248-a7ed-27dd96471a5b)
 
+
+<img width="1914" height="1074" alt="9 6" src="https://github.com/user-attachments/assets/6e022c11-97f5-4721-a13e-5c37562a25c8" />
 
 ---
 
