@@ -23,7 +23,8 @@
 2.  **Install Java:** Ensure JRE is installed on your machine.
 3.  **Prepare environment:** Place the `StegExpose.jar` file in a dedicated working folder.
 
-<img width="1919" height="1079" alt="8 1" src="https://github.com/user-attachments/assets/9ed4bf78-e563-41a8-997f-324c85566c75" />
+
+<img width="1919" height="1079" alt="8 1" src="https://github.com/user-attachments/assets/885b817d-b77d-495e-bb91-61d734a443b2" />
 
 
 ### 2. Select Images for Analysis
@@ -31,7 +32,8 @@
 * Collect the images you suspect might contain hidden data.
 * StegExpose supports common image formats such as **.png**, **.jpg**, and **.bmp**.
 
-<img width="1892" height="985" alt="8 6" src="https://github.com/user-attachments/assets/f028bdbf-8701-434f-93c7-8b02639bc062" />
+<img width="1919" height="1077" alt="8 2" src="https://github.com/user-attachments/assets/20115a97-f3b5-43e6-b8ea-2d11544fb6ad" />
+
 
 
 
@@ -39,7 +41,8 @@
 
 * Navigate to the folder where the `StegExpose.jar` file is located using your Command Prompt (Windows) or Terminal (Linux/macOS).
 
-<img width="1722" height="932" alt="8 8" src="https://github.com/user-attachments/assets/03d8910c-59af-4541-aa9a-879b21ed304b" />
+
+<img width="1481" height="740" alt="8 3" src="https://github.com/user-attachments/assets/d0ccce47-c7e7-4c41-9b5d-c638e364f070" />
 
 
 
@@ -77,10 +80,9 @@
     Result: 0.4
     Steganography likely present
     ```
-  
-   <img width="1917" height="1008" alt="8 10" src="https://github.com/user-attachments/assets/b0617570-4594-4a2d-b345-271c378aeda8" />
+  <img width="1486" height="750" alt="8 4" src="https://github.com/user-attachments/assets/8a01b058-2a9a-4ef7-91a1-1b07d0f03943" />
 
-   <img width="1919" height="1000" alt="8 11" src="https://github.com/user-attachments/assets/d8513718-ccd8-4456-a25b-d2f1011d94e5" />
+ <img width="1482" height="401" alt="8 5" src="https://github.com/user-attachments/assets/f1e9bccb-57d2-41b9-a784-b04a3b73e57b" />
 
 
   
@@ -111,17 +113,11 @@
 
 | **Criteria & Marks Assigned**                                | **Mark Allotted** | **Mark Awarded** |
 |--------------------------------------------------------------|-------------------|------------------|
-|                                                              |                   |                  |
 | 1. GitHub Activity & Submission Regularity                   |         3         |                  |
-|                                                              |                   |                  |
 | 2. Application of Forensic Tools & Practical Execution       |         3         |                  |
-|                                                              |                   |                  |
 | 3. Documentation & Reporting                                 |         2         |                  |
-|                                                              |                   |                  |
 | 4. Engagement, Problem-Solving & Team Collaboration          |         2         |                  |
-|                                                              |                   |                  |
 |                  **Total**                                   |       **10**      |                  |
-|                                                              |                   |                  |
 
 ## Result : 
 - Thus this experiment is successfully completed using Steg-Expose.
