@@ -105,17 +105,11 @@ By following these steps, you successfully perform a logical extraction on an An
 
 | **Criteria & Marks Assigned**                                | **Mark Allotted** | **Mark Awarded** |
 |--------------------------------------------------------------|-------------------|------------------|
-|                                                              |                   |                  |
 | 1. GitHub Activity & Submission Regularity                   |         3         |                  |
-|                                                              |                   |                  |
 | 2. Application of Forensic Tools & Practical Execution       |         3         |                  |
-|                                                              |                   |                  |
 | 3. Documentation & Reporting                                 |         2         |                  |
-|                                                              |                   |                  |
 | 4. Engagement, Problem-Solving & Team Collaboration          |         2         |                  |
-|                                                              |                   |                  |
 |                  **Total**                                   |       **10**      |                  |
-|                                                              |                   |                  |
 
 ## Result : 
 - Thus this experiment is successfully completed using AFLogical OSE.
