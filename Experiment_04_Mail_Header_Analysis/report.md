@@ -20,7 +20,7 @@ To perform forensic analysis of an email header to identify the sender’s detai
    - In Gmail → Click **More (⋮) → Show Original**  
    - In Outlook → Click **File → Properties → Internet Headers**  
 3. Copied the entire raw header text.  
-4. Opened the website **[https://mxtoolbox.com/EmailHeaders.aspx](https://mxtoolbox.com/EmailHeaders.aspx)** (or similar online analyzer).  
+4. Opened the website **[https://mxtoolbox.com/EmailHeaders.aspx](https://mxtoolbox.com/EmailHeaders.aspx)**.  
 5. Pasted the copied header text into the analyzer input box.  
 6. Clicked on **Analyze Header**.  
 7. The tool displayed:  
