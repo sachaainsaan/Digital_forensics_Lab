@@ -8,14 +8,14 @@ To acquire and analyze logical data from an Android smartphone using AFLogical O
 ## Tools Used
 - **Tool Name:** AFLogical OSE (Open Source Edition)  
 - **Version:** 1.6.3  
-- **Operating System:** Windows 10 / Linux 
+- **Operating System:** Windows 11 / Linux 
 - **Mobile Platform:** Android OS  
 - **Connection Type:** USB Debugging via ADB   
 - **Output Type:** `.zip` archive containing CSV data files
 
 ---
 
-## Procedure (Step-by-Step)
+## Procedure
 1. Installed **AFLogical OSE** on the system.  
    - Tool can be downloaded from **AFLogical OSE GitHub Repository**.  
 2. Enabled **Developer Options** on the Android device.  
