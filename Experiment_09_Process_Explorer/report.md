@@ -8,13 +8,13 @@ To inspect running processes using Process Explorer, identify unknown or high CP
 ## Tools Used
 - **Tool Name:** Process Explorer
 - **Version:** v17.06  
-- **Operating System:** Windows 10 (64-bit)  
+- **Operating System:** Windows 11  
 - **File Type:** Executable 
 - **Purpose:** Real-time process monitoring and malware detection  
 
 ---
 
-## Procedure (Step-by-Step)
+## Procedure 
 1. Downloaded **Process Explorer** from the official Microsoft Sysinternals website.  
 2. Extracted the zip folder and launched the executable file:
 3. The **Process Explorer dashboard** displayed a hierarchical view of all running processes.  
