@@ -8,13 +8,13 @@ To analyze a forensic disk image using Autopsy and recover deleted or hidden fil
 ## Tools Used
 - **Tool Name:** Autopsy  
 - **Version:** 4.22.1 
-- **Operating System:** Windows 10 (64-bit)  
+- **Operating System:** Windows 11  
 - **Image Type:** Forensic disk image (`.E01`)  
 - **Hash Algorithm:** MD5, SHA1 (for integrity verification)
 
 ---
 
-## Procedure (Step-by-Step)
+## Procedure
 1. Launched **Autopsy** on the system.  
 2. Selected **Create New Case** and provided the following details:  
    - Case Name:
