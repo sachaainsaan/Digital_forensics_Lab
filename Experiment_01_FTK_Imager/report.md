@@ -14,7 +14,7 @@ To acquire a forensic image of a disk or folder using FTK Imager and verify its 
 
 ---
 
-## Procedure (Step-by-Step)
+## Procedure
 1. Launched **FTK Imager** on the system.  
 2. Clicked on **File → Create Disk Image**.  
 3. In the *Select Source* window, chose **Contents of a Folder** (since only one physical drive was available).  
