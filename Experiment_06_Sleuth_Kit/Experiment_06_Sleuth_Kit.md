@@ -12,7 +12,7 @@ The **Sleuth Kit (TSK)** is a suite of command-line tools for analyzing disk ima
 2.  **Install Sleuth Kit:**
     * Run the installer and follow the instructions to install Sleuth Kit on your Windows machine.
 
-![6 1](https://github.com/user-attachments/assets/92cf797f-02dc-46f0-b504-45d61fecaa54)
+<img width="1480" height="250" alt="6 1" src="https://github.com/user-attachments/assets/19ca4b97-e71f-47b4-852c-6e17d96cb26d" />
 
 ---
 
@@ -27,8 +27,8 @@ Before analysis, a **bit-by-bit copy** (disk image) of the storage device eviden
     * Download the following files from the Google Drive:
         * `4Dell Latitude CPi.E01`
         * `4Dell Latitude CPi.E02`
+<img width="1919" height="1079" alt="6 2" src="https://github.com/user-attachments/assets/1a7bc4f9-112c-45d6-9392-79108ba845aa" />
 
-![6 3](https://github.com/user-attachments/assets/0e35672f-fcf4-4e3b-96ac-91a18c013764)
 
 ---
 
@@ -54,7 +54,8 @@ Use the Sleuth Kit command-line tools to examine the file system structure and l
         ```arduino
         fsstat [image file] > filesystem_info.txt
         ```
-![6 4](https://github.com/user-attachments/assets/99742d97-c7c6-408d-804c-9f774d594f1d)
+<img width="925" height="1079" alt="6 3" src="https://github.com/user-attachments/assets/5144d9bc-ac53-4512-9eae-44ed34115ce2" />
+
 
         
     * **Purpose:** This command outputs detailed information about the file system, which is crucial for structural understanding.
@@ -78,7 +79,8 @@ Use the Sleuth Kit command-line tools to examine the file system structure and l
         ```css
         icat [image file] [inode number] > [output file]
         ```
-        ![6 5](https://github.com/user-attachments/assets/25db4892-31dc-497e-8895-bc1f0cc1d537)
+        
+<img width="1919" height="1079" alt="6 4" src="https://github.com/user-attachments/assets/7be4f38a-d0cb-4946-b5ea-1435a9ed264a" />
 
     * **Purpose:** To extract a specific file, replace `[inode number]` with the inode found from the `fls` output.
 
@@ -95,7 +97,8 @@ Extract file metadata to gain insight into a file's history, creation, and usage
         ```
     * **Purpose:** Provides detailed information about a file, including **timestamps (MAC times)**, size, and allocation status.
     * 
-![6 2](https://github.com/user-attachments/assets/92e522c5-4d0c-4f2b-84b4-f3782d818a6a)
+<img width="1782" height="306" alt="6 5" src="https://github.com/user-attachments/assets/0f6ff02b-786d-4b0f-84fe-464f99a554f4" />
+
 
 ---
 
@@ -146,17 +149,10 @@ Ensure all evidence and reports are securely managed to maintain integrity and f
 
 | **Criteria & Marks Assigned**                                | **Mark Allotted** | **Mark Awarded** |
 |--------------------------------------------------------------|-------------------|------------------|
-|                                                              |                   |                  |
 | 1. GitHub Activity & Submission Regularity                   |         3         |                  |
-|                                                              |                   |                  |
 | 2. Application of Forensic Tools & Practical Execution       |         3         |                  |
-|                                                              |                   |                  |
 | 3. Documentation & Reporting                                 |         2         |                  |
-|                                                              |                   |                  |
 | 4. Engagement, Problem-Solving & Team Collaboration          |         2         |                  |
-|                                                              |                   |                  |
 |                  **Total**                                   |       **10**      |                  |
-|                                                              |                   |                  |
-
 ## Result : 
 - Thus this experiment is successfully completed using Sleuth Kit.
