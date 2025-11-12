@@ -30,26 +30,30 @@ This experiment demonstrates how to create a case, import evidence, analyze data
 - Enter the case name and location where case data will be stored.  
 - Fill in details such as case number, examiner’s name, etc., and click **Next**.
 
-![WhatsApp Image 2025-09-01 at 12 29 59](https://github.com/user-attachments/assets/7b86bc1a-8dac-4e75-a377-3ab4022baec0))
+  <img width="1708" height="954" alt="5 1" src="https://github.com/user-attachments/assets/84973a73-7446-4d78-b8f7-84aaef96856c" />
+
 
 ### 3. Enter Case Details  
 - Enter the case name and location where the case data will be stored. Fill in the details like the case number, examiner's name, etc., and click Next.
 
-![WhatsApp Image 2025-09-01 at 12 30 16](https://github.com/user-attachments/assets/e634f51d-f727-4086-899b-f106efb9fc66)
+<img width="978" height="577" alt="5 2" src="https://github.com/user-attachments/assets/d482baaa-3826-43a7-ae25-db49932d3ad9" />
+
 
 ### 4. Adding a Data Source
 - Choose the type of data source.  
 - Select the data source (e.g., disk image, local drive, logical files).  
-- Configure **Ingest Modules** & start analysis  
+- Configure **Ingest Modules** & start analysis
+  
+<img width="1078" height="678" alt="5 3" src="https://github.com/user-attachments/assets/7f831516-65c3-4cae-85c8-d95f36deeac0" />
 
-![WhatsApp Image 2025-09-01 at 12 31 16](https://github.com/user-attachments/assets/d009cafa-e26c-49cd-8b1d-080165f6caad)
 
 ### 5. Initial Analysis and Overview  
 - Monitor **Ingest Progress**.  
 - Explore the resulting artifacts.  
 - Use the Tree Viewer to navigate evidence categories.  
 
-![WhatsApp Image 2025-09-01 at 12 31 26](https://github.com/user-attachments/assets/baf85079-febd-4eea-b76e-5e208d72763d)
+<img width="1710" height="955" alt="5 4" src="https://github.com/user-attachments/assets/9003c8be-da18-4822-b52f-efa5a0129f87" />
+
 
 ### 6. Detailed Analysis  
 - **Keyword Search:**  
@@ -62,8 +66,9 @@ This experiment demonstrates how to create a case, import evidence, analyze data
   - Use the Timeline module to visualize events by timestamps.  
 - **Hash Analysis:**  
   - Compare file hashes against known databases to identify known good/bad files.
+  
+<img width="1705" height="957" alt="5 5" src="https://github.com/user-attachments/assets/4303b540-1843-4c9b-8154-913ee7fc77ad" />
 
-![WhatsApp Image 2025-09-01 at 12 31 37](https://github.com/user-attachments/assets/5cf5602f-8bd5-4e12-b7f2-1aab9d078f7a)
 
 ### 7. Reporting  
 - Generate a report by selecting **Generate Report** from the toolbar.  
@@ -73,21 +78,25 @@ This experiment demonstrates how to create a case, import evidence, analyze data
 - Final Review: check that the report includes all relevant details.  
 - Save or print the report for case documentation.  
 
-![WhatsApp Image 2025-09-01 at 12 31 52](https://github.com/user-attachments/assets/56afaf1c-2bab-4f8f-b6d5-bf273019c7bc)
+<img width="1707" height="955" alt="5 6" src="https://github.com/user-attachments/assets/4bc8de96-7c80-4bc8-bd35-b6ae37dadb30" />
+
 
 
 - Report Generation Progress
 
-![WhatsApp Image 2025-09-01 at 12 32 03](https://github.com/user-attachments/assets/ca4fb59e-8378-40fb-8df8-0fc46dacfba4)
+<img width="869" height="528" alt="5 7" src="https://github.com/user-attachments/assets/6e75f88c-e5bc-4591-9374-3745f38213a3" />
+
 
 - Reports
 
-![WhatsApp Image 2025-09-01 at 12 32 15](https://github.com/user-attachments/assets/cd4463ef-c935-489f-a1f8-1550cca231cf)
+<img width="1709" height="951" alt="5 8" src="https://github.com/user-attachments/assets/7ca44f3c-85d8-4a37-9063-74022830d89d" />
+
 
 
 - Text in the report
 
-![WhatsApp Image 2025-09-01 at 12 32 38](https://github.com/user-attachments/assets/b055269f-3ca8-47a7-bc77-0228b05a2235)
+<img width="1711" height="1016" alt="5 9" src="https://github.com/user-attachments/assets/978c6f95-9f30-4161-9aec-d7861f8546e0" />
+
 
 ### Step-8: Case Closure  
 - Close the case once the investigation is complete.  
