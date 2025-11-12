@@ -8,13 +8,13 @@ To capture and analyze live network packets using Wireshark and identify communi
 ## Tools Used
 - **Tool Name:** Wireshark  
 - **Version:** 4.2.3  
-- **Operating System:** Windows 10 (64-bit)  
+- **Operating System:** Windows 11 
 - **File Type:** `.pcapng` (Packet Capture File)  
 - **Protocols Observed:** TCP, UDP, HTTP, ICMP, DNS
 
 ---
 
-## Procedure (Step-by-Step)
+## Procedure
 1. Launched **Wireshark** on the system.  
 2. From the list of network interfaces, selected the **active adapter** 
 3. Clicked the **Start Capturing Packets** button.  
