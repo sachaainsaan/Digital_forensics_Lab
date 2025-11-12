@@ -8,7 +8,7 @@ To recover deleted or lost partitions and files using the TestDisk forensic tool
 ## Tools Used
 - **Tool Name:** TestDisk  
 - **Version:** 7.3  
-- **Operating System:** Windows 10 (64-bit)  
+- **Operating System:** Windows 11
 - **Image / File Type:** Disk Image   
 
 ---
@@ -27,7 +27,6 @@ To recover deleted or lost partitions and files using the TestDisk forensic tool
 11. Selected the desired partition and used the **Write** option to restore it.  
 12. Saved the restored partition table and exited the program.  
 13. Rebooted the system (if required) to check that the partition appeared again in File Explorer.  
-
 
 ---
 
