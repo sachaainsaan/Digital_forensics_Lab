@@ -8,13 +8,13 @@ To perform forensic analysis of a disk image using the command-line tools of The
 ## Tools Used
 - **Tool Name:** The Sleuth Kit (TSK)  
 - **Version:** 4.14.0  
-- **Operating System:** Windows 10 (using Command Prompt)  
+- **Operating System:** Windows 11 using command prompt
 - **File Type:** Forensic disk image (`.E01` / `.dd` / `.img`)  
 - **Supported File Systems:** FAT, NTFS, EXT, HFS, ISO9660  
 
 ---
 
-## Procedure (Step-by-Step)
+## Procedure
 1. Installed **Sleuth Kit** on the system.  
    - Windows: Extracted and added the Sleuth Kit folder to the PATH environment.  
    - Linux: Installed using `sudo apt install sleuthkit`.  
