@@ -8,13 +8,13 @@ To perform steganographic analysis on digital images using StegExpose and OpenSt
 ## Tools Used
 - **Tool :** StegExpose (Java-based Detection Tool)  
 - **Version:** 0.2  
-- **Operating System:** Windows 10 (64-bit)  
+- **Operating System:** Windows 11             
 - **File Types:** `.jpg`, `.png`, `.bmp`  
 - **Output Type:** Hidden file (e.g., `.txt`, `.zip`)
 
 ---
 
-## Procedure (Step-by-Step)
+## Procedure 
 1. Opened **Command Prompt** in the folder containing StegExpose.  
 2. Ran the following command to analyze images:
 3. StegExpose scanned all images in the specified directory and generated a report (`steganalysis.csv`).  
